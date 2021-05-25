@@ -5,7 +5,6 @@ Title Of Project: AI Based Smart Attendance System
 Group Members: Jayesh Bhosale, Tejas Bhanushali, Yash
 Gangani.
 
-Brief Description about Project Implementation
 The management of the attendance can be a great burden on the teachers if it is done
 manually. To resolve this problem, smart and auto attendance management system is being
 utilized. But authentication is an important issue in this system. The smart attendance
